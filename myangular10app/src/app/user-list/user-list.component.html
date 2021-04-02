@@ -1,0 +1,6 @@
+<form #simpleForm="ngForm" (ngSubmit)="getUserValue(simpleForm.value)">
+    <input type="text" ngModel name="username" placeholder="Enter Name"><br><br>
+    <input type="text" ngModel name="age" placeholder="Enter Age"><br><br>
+    <input type="text" ngModel name="address" placeholder="Enter Adress"><br><br>
+    <button> Get user values</button>
+</form>
