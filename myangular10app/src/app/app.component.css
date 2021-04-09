@@ -2,3 +2,12 @@
 h1{
     background-color: rgb(51, 153, 68);
 }
+input.ng-invalid{
+    border-left: 5px solid red;
+}
+input.ng-valid{
+    border-left: 5px solid green;
+}
+.error{
+    color: red;
+}
