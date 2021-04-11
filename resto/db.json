@@ -1,0 +1,45 @@
+{
+  "resturant": [
+    {
+      "name": "kfc44411111111111",
+      "email": "as@gmail.com44411111133",
+      "address": "test4444111111113",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "kfc3",
+      "address": "test3",
+      "email": "as@gmail.com3"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "kfc55",
+      "address": "test55",
+      "email": "as@gmail.com55"
+    },
+    {
+      "name": "Parag Govinda Bhangale",
+      "email": "paragbhangale@gmail.com",
+      "address": "B 102Building No3, Rajvaibhav NX, Raju Nagar",
+      "id": 7
+    },
+    {
+      "name": "Parag Govinda Bhangale",
+      "email": "paragbhangale@gmail.com",
+      "address": "B 102Building No3, Rajvaibhav NX, Raju Nagar",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "Chintan",
+      "email": "chintu@gmail.com",
+      "password": "chintan@123",
+      "id": 1
+    }
+  ]
+}
